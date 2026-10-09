@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Kharisma Satria Nindhita (@Nyanns)</h1>
+  <h1 align="center">Satria Nindhita (@Nyanns)</h1>
   <p align="center">
     <strong>Backend Architecture &bull; Cybersecurity &bull; QA Automation</strong>
   </p>
