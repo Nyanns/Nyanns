@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Kharisma Satria Nindhita (@Nyanns)</h1>
+  <p align="center">
+    <strong>Backend Architecture &bull; Cybersecurity &bull; QA Automation</strong>
+  </p>
+  
+  <p align="center">
+    <i>"Building resilient systems, securing infrastructure, and automating quality at scale."</i>
+  </p>
 
-<!--
-**Nyanns/Nyanns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
 
-Here are some ideas to get you started:
+  <h3>Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,react,ts,js,python,postgres,redis,docker,linux,bash&theme=dark" alt="Skill Icons"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br><br>
+
+  <h3>Metrics</h3>
+  <a href="https://github.com/Nyanns">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nyanns&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Nyanns">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyanns&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  </a>
+
+  <br><br>
+
+  <h3>Activity Tracker</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nyanns/Nyanns/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nyanns/Nyanns/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nyanns/Nyanns/output/github-snake.svg">
+  </picture>
+</div>
