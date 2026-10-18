@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Satria Nindhita (@Nyanns)</h1>
+  <h1 align="center">Nindhita (@Nyanns)</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Backend+Architecture;Cybersecurity;QA+Automation" alt="Typing SVG" />
   </a>
